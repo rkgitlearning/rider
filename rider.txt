@@ -9,5 +9,8 @@ public class Rider{
 	public static void one(){
 	System.out.println("The rider two");
 	}
-}
 
+	pubilc static void two(){
+		System.out.println("The rider three");
+	}
+}
