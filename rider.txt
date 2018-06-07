@@ -5,5 +5,9 @@ public class Rider{
 	public static void main(String []rk){
 		System.out.println("The rider");
 	}
+
+	public static void one(){
+	System.out.println("The rider two");
+	}
 }
 
